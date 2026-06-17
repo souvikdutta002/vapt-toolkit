@@ -99,7 +99,6 @@ python vapt_toolkit.py --target 10.0.0.5 --ports 1-65535 --scan --banner
 vapt-toolkit/
 │
 ├── vapt_toolkit.py         # Main entry point
-├── demo.py                 # Simulated demo (no real target needed)
 ├── requirements.txt
 │
 ├── modules/
