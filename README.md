@@ -165,11 +165,32 @@ vapt-toolkit/
 
 ---
 
-## 👤 Author
+## 👤 Author [Souvik Dutta]
 
-**[Your Name]**  
-Cybersecurity Intern — Codec Technologies | AICTE National Internship Portal  
-📧 [your email] | 🔗 [LinkedIn] | 🐙 [GitHub]
+<h2 align="center">✨ Thank You for Visiting My Profile ✨</h2>
+
+<p align="center">
+I truly appreciate you taking the time to explore my GitHub profile.<br>
+I'm constantly learning and building projects in <b>Cybersecurity, Ethical Hacking, and Software Development</b>.
+</p>
+
+<p align="center">
+⭐ Consider giving a <b>Star</b> to the repositories you like <br>
+🍴 Feel free to <b>Fork</b> and explore the code <br>
+🤝 Let's connect and collaborate
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Learning-Ethical%20Hacking-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Goal-Penetration_Testing-red?style=for-the-badge">
+</p>
+
+<p align="center">
+<i>*Built for cybersecurity education. Always hack ethically.* 🛡️
+</i>
+</p>
+| 🔗 [LinkedIn] | 
 
 ---
 
