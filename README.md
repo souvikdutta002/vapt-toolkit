@@ -43,7 +43,7 @@ This project was developed as part of a cybersecurity internship to demonstrate 
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/vapt-toolkit.git
+https://github.com/souvikdutta002/vapt-toolkit.git
 cd vapt-toolkit
 ```
 
