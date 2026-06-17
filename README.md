@@ -49,11 +49,6 @@ cd vapt-toolkit
 
 No external dependencies required. All modules use Python's standard library.
 
-### Run the Demo (No target needed)
-
-```bash
-python demo.py
-```
 
 This runs a simulated VAPT assessment and generates sample reports in `reports/`.
 
