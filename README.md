@@ -189,7 +189,6 @@ I'm constantly learning and building projects in <b>Cybersecurity, Ethical Hacki
 <i>*Built for cybersecurity education. Always hack ethically.* 🛡️
 </i>
 </p>
-| 🔗 [LinkedIn] | 
 
 ---
 
