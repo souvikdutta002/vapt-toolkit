@@ -1,0 +1,7 @@
+# VAPT Toolkit - Python Dependencies
+# All core modules use Python standard library only.
+# No external packages required for basic functionality.
+# 
+# Optional: Install these for extended features
+colorama>=0.4.6       # Colored terminal output (optional)
+tabulate>=0.9.0       # Tabular report formatting (optional)
