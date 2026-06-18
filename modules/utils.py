@@ -22,7 +22,7 @@ def print_banner():
 """
     print(banner)
     print("  VAPT Toolkit v1.0 | Vulnerability Assessment & Penetration Testing")
-    print("  By Souvik Dutta ")
+    print("  Built by Souvik Dutta ")
     print("  ⚠  For authorized and educational use only.\n")
     print("=" * 70)
 
