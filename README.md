@@ -1,9 +1,6 @@
-# 🛡️ VAPT Toolkit
 
-> **Vulnerability Assessment and Penetration Testing Framework**  
-> Built with Python | Internship Project — Codec Technologies × AICTE National Internship Portal
-
----
+<div align="center">
+        <img src="https://i.imgur.com/gwifIFM.png" border="0">
 
 ## 📌 Overview
 
