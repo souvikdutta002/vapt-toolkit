@@ -2,6 +2,15 @@
 <div align="center">
         <img src="https://i.imgur.com/gwifIFM.png" border="0">
 
+
+**A Python-Based Vulnerability Assessment and Penetration Testing Toolkit**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square)](#)
+
+</div>
+
 ## 📌 Overview
 
 **VAPT Toolkit** is a modular, command-line penetration testing framework built entirely in Python. It automates common vulnerability assessment tasks performed during ethical hacking engagements — from port scanning and banner grabbing to web application testing and structured report generation.
